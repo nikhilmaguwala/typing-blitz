@@ -3,7 +3,7 @@
 <div align="center">
 <br />
     <a href="https://typing-blitz.vercel.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/nikhilmaguwala/typing-blitz/main/src/assets/typingblitz.png?token=GHSAT0AAAAAACMXOZWR5OTES347QQSNIT6EZOCCTNA" alt="Project Banner">
+      <img src="https://raw.githubusercontent.com/nikhilmaguwala/typing-blitz/main/src/assets/typingblitz_poster.png?token=GHSAT0AAAAAACMXOZWQWEY67TJEXYIKYN3QZOCC5PQ" alt="Project Banner">
     </a>
   <br />
 
